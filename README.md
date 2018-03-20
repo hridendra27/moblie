@@ -6,7 +6,5 @@
 4.LAVA09
 3.SOny (version 2.0)
 16.HELLO WORLD
-17
-New day
 
 
